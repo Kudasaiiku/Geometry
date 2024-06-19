@@ -1,0 +1,15 @@
+﻿<Page x:Class="WpfApp1.Info2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Info2">
+
+    <Grid Background="White" Width="700" Height="334.04">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Center" Height="314" Width="680" FontSize="17" FontFamily="Bahnschrift SemiBold" FontWeight="Bold" FontStyle="Normal" TextDecorations="{x:Null}"><Run Text="1"/><Run Text=". &quot;Точка&quot;. Функция для построения точки на координатной плоскости."/><LineBreak/><Run Text="2."/><Run Text=" &quot;Прямая&quot;. Функция для построения прямой на координатной плоскости."/><LineBreak/><Run Text="3. &quot;Окружность&quot;. Функция для построения окружности на координатной плоскости."/><LineBreak/><Run Text="4. "/><Run Text="&quot;Карандаш&quot;. Функция предназначена для обозначения, нанесения пометок на чертежи."/><LineBreak/><Run Text="5. "/><Run Text="Область, на которой указано условие задачи."/><LineBreak/><Run Text="6. "/><Run Text="&quot;Очистить&quot;. Функция для очистки координатной плоскости."/><LineBreak/><Run Text="7. "/><Run Text="&quot;Назад&quot;. Кнопка возвращает пользователя в главное меню."/><LineBreak/><Run Text="8."/><Run Text=" Калькулятор. Калькулятор необходим для быстрого подсчёта решения задачи."/><LineBreak/><Run Text="9. "/><Run Text="Область"/><Run Text=" для ввода ответа, а также для проверки правильности решения задачи."/><LineBreak/><Run Text="10. "/><Run Text="&quot;Показать решение&quot;. Кнопка отображает поэтапное решение задачи. При необходимости подсказки можно скрыть, нажав на &quot;Х&quot;."/><LineBreak/><Run Text="11. "/><Run Text="Координатная плоскость. На данной области происходит построение чертежей, где Х - от 0 до"/><Run Language="ru-ru" Text=" 650, "/><Run Text="Y - "/><Run Language="ru-ru" Text="от 0 до 350."/><Run Text=" "/></TextBlock>
+
+    </Grid>
+</Page>

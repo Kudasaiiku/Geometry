@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApp1.ErrorPoint"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Ошибка!" Height="166" Width="364" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Введены координаты, превышающие границы поля.&#xA;Максимальные значения:  &#xA;X = 650, Y = 350." HorizontalAlignment="Center" Margin="0,15,0,0" VerticalAlignment="Top" Height="67" Width="325" FontSize="13" Grid.ColumnSpan="2" FontFamily="Bahnschrift SemiBold" FontWeight="Bold" FontStyle="Normal"/>
+        <Button Content="Ок" HorizontalAlignment="Center" Margin="0,82,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click" Background="#FFD42A2A" BorderBrush="#FF170000" Foreground="#FF170000" FontFamily="Permanent Marker" Padding="1,-1,1,1" FontSize="15" Opacity="0.85" FontWeight="Bold" HorizontalContentAlignment="Center">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище GeometryModelContainer" CdmEntityContainer="GeometryEntities">
+    <EntitySetMapping Name="register">
+      <EntityTypeMapping TypeName="GeometryModel.register">
+        <MappingFragment StoreEntitySet="register">
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="login_user" ColumnName="login_user" />
+          <ScalarProperty Name="password_user" ColumnName="password_user" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="userData">
+      <EntityTypeMapping TypeName="GeometryModel.userData">
+        <MappingFragment StoreEntitySet="userData">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="user_name" ColumnName="user_name" />
+          <ScalarProperty Name="user_progress" ColumnName="user_progress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

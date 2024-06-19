@@ -1,0 +1,1067 @@
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Menu.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\ex1.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Creator.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\line.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\point.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\round.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\line.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\point.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\round.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page1.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page2.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page3.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page4.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page5.baml
+C:\Users\Пользователь\source\repos\WpfApp1\WpfApp1\obj\Debug\Page6.baml
+E:\VS\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\VS\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\VS\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Creator.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\ex1.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\line.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Menu.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page1.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page2.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page3.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page4.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page5.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page6.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\point.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\round.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Creator.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\ex1.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\line.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Menu.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page1.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page2.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page3.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page4.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page5.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\Page6.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\point.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\round.baml
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\VS\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\WpfApp1\WpfApp1\obj\Debug\Creator.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\ex1.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\line.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Menu.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Page1.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Page2.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Page3.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Page4.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Page5.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\Page6.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\point.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\round.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\WpfApp1\WpfApp1\obj\Debug\Creator.baml
+D:\WpfApp1\WpfApp1\obj\Debug\ex1.baml
+D:\WpfApp1\WpfApp1\obj\Debug\line.baml
+D:\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Menu.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Page1.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Page2.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Page3.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Page4.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Page5.baml
+D:\WpfApp1\WpfApp1\obj\Debug\Page6.baml
+D:\WpfApp1\WpfApp1\obj\Debug\point.baml
+D:\WpfApp1\WpfApp1\obj\Debug\round.baml
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+G:\WpfApp1\WpfApp1\obj\Debug\Creator.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\ex1.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\line.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\Menu.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\Page1.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\Page2.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\Page3.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\Page4.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\Page5.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\Page6.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\point.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\round.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\WpfApp1\WpfApp1\obj\Debug\Creator.baml
+G:\WpfApp1\WpfApp1\obj\Debug\ex1.baml
+G:\WpfApp1\WpfApp1\obj\Debug\line.baml
+G:\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+G:\WpfApp1\WpfApp1\obj\Debug\Menu.baml
+G:\WpfApp1\WpfApp1\obj\Debug\Page1.baml
+G:\WpfApp1\WpfApp1\obj\Debug\Page2.baml
+G:\WpfApp1\WpfApp1\obj\Debug\Page3.baml
+G:\WpfApp1\WpfApp1\obj\Debug\Page4.baml
+G:\WpfApp1\WpfApp1\obj\Debug\Page5.baml
+G:\WpfApp1\WpfApp1\obj\Debug\Page6.baml
+G:\WpfApp1\WpfApp1\obj\Debug\point.baml
+G:\WpfApp1\WpfApp1\obj\Debug\round.baml
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\WpfApp1 round\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\WpfApp1 round\WpfApp1\bin\Debug\WpfApp1.exe
+G:\WpfApp1 round\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+G:\WpfApp1 round\WpfApp1\obj\Debug\Creator.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\ex1.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\line.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\Menu.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page1.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page2.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page3.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page4.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page5.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page6.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\point.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\round.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\App.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\WpfApp1 round\WpfApp1\obj\Debug\Creator.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\ex1.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\line.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\MainWindow.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\Menu.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page1.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page2.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page3.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page4.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page5.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\Page6.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\point.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\round.baml
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.exe
+G:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\WpfApp1 round\WpfApp1\obj\Debug\Error.g.cs
+G:\WpfApp1 round\WpfApp1\obj\Debug\Error.baml
+D:\WpfApp1 round\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\WpfApp1 round\WpfApp1\bin\Debug\WpfApp1.exe
+D:\WpfApp1 round\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\WpfApp1 round\WpfApp1\obj\Debug\Creator.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\Error.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\ex1.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\line.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\Menu.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page1.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page2.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page3.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page4.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page5.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page6.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\point.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\round.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\App.g.cs
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\WpfApp1 round\WpfApp1\obj\Debug\Creator.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\Error.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\ex1.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\line.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\MainWindow.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\Menu.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page1.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page2.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page3.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page4.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page5.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\Page6.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\point.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\round.baml
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.exe
+D:\WpfApp1 round\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\line.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\point.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\round.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\App.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\line.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\point.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\round.baml
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.g.cs
+G:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.baml
+D:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\line.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\point.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\round.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\App.g.cs
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\line.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\point.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\round.baml
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\line.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\point.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\round.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\App.g.cs
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\line.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\point.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\round.baml
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\line.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\point.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\round.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\App.g.cs
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\line.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\point.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\round.baml
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\line.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\point.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\round.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Creator.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorLine.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorPoint.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\ErrorRound.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\ex1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\line.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Menu.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\Page6.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\point.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\round.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\DataBase\Autorisation.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\DataBase\Registration.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\DataBase\Autorisation.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\DataBase\Registration.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\ErrorLine.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\ErrorPoint.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\ErrorRound.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\line.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\point.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\DataBase\Autorisation.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\DataBase\Registration.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\round.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Creator.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\ErrorLine.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\ErrorPoint.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\ErrorRound.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\ex1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\line.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Menu.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\Page6.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\point.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\DataBase\Autorisation.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\DataBase\Registration.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\round.baml
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\WpfApp1 1.1 — копия\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\ErrorLine.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\ErrorPoint.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\ErrorRound.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\line.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\point.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\DataBase\Autorisation.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\DataBase\Registration.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\round.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Creator.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\ErrorLine.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\ErrorPoint.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\ErrorRound.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\ex1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\line.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Menu.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\Page6.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\point.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\DataBase\Autorisation.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\DataBase\Registration.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\round.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\ErrorLine.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\ErrorPoint.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\ErrorRound.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\line.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\point.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\DataBase\Autorisation.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\DataBase\Registration.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\round.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Creator.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\ErrorLine.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\ErrorPoint.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\ErrorRound.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\ex1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\line.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Menu.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Page6.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\point.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\DataBase\Autorisation.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\DataBase\Registration.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\round.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Statistic.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — запросы\WpfApp1\obj\Debug\Statistic.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\ErrorLine.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\ErrorPoint.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\ErrorRound.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\line.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Statistic.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\point.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\DataBase\Autorisation.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\DataBase\Registration.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\round.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Creator.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\ErrorLine.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\ErrorPoint.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\ErrorRound.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\ex1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\line.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Statistic.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Menu.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\Page6.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\point.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\DataBase\Autorisation.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\DataBase\Registration.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\round.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — хранимые процедуры\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorLine.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorPoint.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorRound.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\line.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Statistic.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\point.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Autorisation.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Registration.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\round.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Creator.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorLine.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorPoint.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorRound.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\line.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Statistic.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Menu.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page6.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\point.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Autorisation.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Registration.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\round.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\UserInfo.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\UserInfo.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page12.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page11.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page12.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page11.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page25.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page24.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page23.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page22.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page21.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page25.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page24.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page23.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page22.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page21.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page33.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page32.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page31.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page33.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page32.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page31.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page44.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page43.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page42.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page41.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page44.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page43.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page42.baml
+C:\Users\deadi\OneDrive\Рабочий стол\Модули\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page41.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorLine.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorPoint.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorRound.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex5.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex4.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex3.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex2.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info1.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info2.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info3.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\line.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page44.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page43.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page42.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page41.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page33.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page32.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page31.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page25.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page24.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page23.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page22.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page21.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page12.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page11.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Statistic.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\point.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Autorisation.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Registration.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\round.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\UserInfo.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\App.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Creator.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorLine.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorPoint.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorRound.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex5.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex4.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex3.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex2.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex1.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info1.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info2.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info3.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\line.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page44.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page43.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page42.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page41.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page33.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page32.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page31.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page25.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page24.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page23.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page22.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page21.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page12.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page11.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Statistic.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Menu.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page1.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page2.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page3.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page4.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page5.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page6.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\point.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Autorisation.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Registration.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\round.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\UserInfo.baml
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\TAKIZAWA\Desktop\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\x86\Microsoft.CognitiveServices.Speech.extension.mas.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Creator.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorLine.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorPoint.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorRound.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\line.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page44.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page43.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page42.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page41.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page33.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page32.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page31.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page25.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page24.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page23.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page22.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page21.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page12.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page11.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Statistic.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Menu.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page1.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page2.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page3.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page4.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page5.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page6.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\point.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Autorisation.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Registration.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\round.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\UserInfo.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\App.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Creator.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorLine.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorPoint.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ErrorRound.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\ex1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Info3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\line.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page44.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page43.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page42.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page41.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page33.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page32.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page31.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page25.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page24.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page23.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page22.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page21.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page12.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page11.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Statistic.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Menu.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page1.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page2.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page3.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page4.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page5.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\Page6.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\point.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Autorisation.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\DataBase\Registration.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\round.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\UserInfo.baml
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\deadi\OneDrive\Рабочий стол\приложение\WpfApp1 2 БД — интерфейс\WpfApp1\obj\Debug\WpfApp1.pdb

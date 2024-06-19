@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище testModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="register">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="int" Nullable="false" />
+    <Property Name="userLogin" Type="varchar" MaxLength="50" />
+    <Property Name="userPassword" Type="varchar" MaxLength="50" />
+    <Property Name="userEmail" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="userData">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="userName" Type="varchar" MaxLength="50" />
+    <Property Name="userProgress" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK__register__userID__398D8EEE">
+    <End Role="userData" Type="Self.userData" Multiplicity="1" />
+    <End Role="register" Type="Self.register" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="userData">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="register">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище testModelContainer">
+    <EntitySet Name="register" EntityType="Self.register" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="userData" EntityType="Self.userData" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__register__userID__398D8EEE" Association="Self.FK__register__userID__398D8EEE">
+      <End Role="userData" EntitySet="userData" />
+      <End Role="register" EntitySet="register" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

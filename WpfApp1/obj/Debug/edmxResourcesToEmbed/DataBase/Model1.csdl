@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="testModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="register">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="Int32" Nullable="false" />
+    <Property Name="userLogin" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="userPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="userEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="userData" Relationship="Self.FK__register__userID__398D8EEE" FromRole="register" ToRole="userData" />
+  </EntityType>
+  <EntityType Name="userData">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="userProgress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="register" Relationship="Self.FK__register__userID__398D8EEE" FromRole="userData" ToRole="register" />
+  </EntityType>
+  <Association Name="FK__register__userID__398D8EEE">
+    <End Role="userData" Type="Self.userData" Multiplicity="1" />
+    <End Role="register" Type="Self.register" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="userData">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="register">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="testEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="register" EntityType="Self.register" />
+    <EntitySet Name="userData" EntityType="Self.userData" />
+    <AssociationSet Name="FK__register__userID__398D8EEE" Association="Self.FK__register__userID__398D8EEE">
+      <End Role="userData" EntitySet="userData" />
+      <End Role="register" EntitySet="register" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

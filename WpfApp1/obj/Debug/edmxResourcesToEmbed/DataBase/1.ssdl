@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище GeometryModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="register">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login_user" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="password_user" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="userData">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_name" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="user_progress" Type="int" />
+  </EntityType>
+  <Association Name="FK_userData_register1">
+    <End Role="register" Type="Self.register" Multiplicity="1" />
+    <End Role="userData" Type="Self.userData" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="register">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="userData">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище GeometryModelContainer">
+    <EntitySet Name="register" EntityType="Self.register" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="userData" EntityType="Self.userData" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_userData_register1" Association="Self.FK_userData_register1">
+      <End Role="register" EntitySet="register" />
+      <End Role="userData" EntitySet="userData" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
